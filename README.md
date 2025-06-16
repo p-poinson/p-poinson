@@ -15,7 +15,7 @@ Portfolio (http://bit.ly/3STsw7m))<br>
 │ ├─ Network-Diagram (https://tinyurl.com/3zt97n6u)<br>
 │ ├─ Config-Files (https://tinyurl.com/2waw26s2)<br>
 │ ├─ Photos (https://tinyurl.com/fr4pauyc)<br>
-│ └─ README (https://docs.google.com/document/d/abc111)<br>
+│ └─ README (https://tinyurl.com/334759bm)<br>
 
 ├── 🌐 Packet-Tracer (https://bit.ly/4l1Z5vK)<br>
 │ ├─ Project-1 (https://tinyurl.com/34h52pb4)<br>
