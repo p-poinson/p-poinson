@@ -9,7 +9,7 @@ This portfolio reflects my progress as a student and highlights my readiness for
 
 ## 📁 Portfolio Contents:
 
-Portfolio (http://bit.ly/3STsw7m))<br>
+Portfolio (http://bit.ly/3STsw7m)<br>
 
 ├── 🏡 Home-Lab (https://bit.ly/4l8Q6Ji)<br>
 │ ├─ Network-Diagram (https://tinyurl.com/3zt97n6u)<br>
